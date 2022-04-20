@@ -1,0 +1,14 @@
+h1,
+form,
+h2 {
+  font-family: sans-serif;
+  text-align: center;
+  display: block;
+}
+p {
+  text-align: center;
+  font-size: 15px;
+}
+li {
+  list-style: none;
+}
